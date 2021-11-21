@@ -23,6 +23,9 @@
         <div class="card-body">
     <h5 class="card-title">About me page</h5>
     <p class="card-text">Profile</p>
+    <p class="card-text">Thanawat Koopontong</p>
+    <p class="card-text">ธนวัต คูโพนทอง</p>
+    <p class="card-text">623410033-9</p>
     <a href="aboutme.html" class="btn btn-primary">Go watch</a>
         </div>
       </div>
