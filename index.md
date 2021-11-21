@@ -35,7 +35,7 @@
         <div class="card-body">
     <h5 class="card-title">Bootstrap</h5>
     <p class="card-text">.....</p>
-    <a href="#" class="btn btn-primary">Go watch</a>
+    <a href="M1\index.html" class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
