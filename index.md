@@ -26,9 +26,8 @@
     <p class="card-text">Thanawat Koopontong</p>
     <p class="card-text">ธนวัต คูโพนทอง</p>
     <p class="card-text">623410033-9</p>
-    <a href="https://github.com/thanawat1112">GitHub Pages</a>
-    <body>
     <a href="aboutme.html" class="btn btn-primary">Go watch</a>
+    <a href="https://github.com/thanawat1112">GitHub Pages</a>
         </div>
       </div>
     </div>
