@@ -67,7 +67,7 @@
         <div class="card-body">
     <h5 class="card-title">React Shopping Cart</h5>
     <p class="card-text">.....</p>
-    <a href="#" class="btn btn-primary">Go watch</a>
+    <a href="..." class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
@@ -78,7 +78,18 @@
         <div class="card-body">
     <h5 class="card-title">Node Js API</h5>
     <p class="card-text">.....</p>
-    <a href="Todo\index.html" class="btn btn-primary">Go watch</a>
+    <a href="..." class="btn btn-primary">Go watch</a>
+        </div>
+      </div>
+    </div>
+   </div>
+       <div class="row">
+    <div class="col-sm-10 col-md-6 col-lg-12">
+      <div class="card mb-3">
+        <div class="card-body">
+    <h5 class="card-title">React Todo Application</h5>
+    <p class="card-text">.....</p>
+    <a href="..." class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
@@ -89,22 +100,12 @@
         <div class="card-body">
     <h5 class="card-title">React and Node API</h5>
     <p class="card-text">.....</p>
-    <a href="Todo\index.html" class="btn btn-primary">Go watch</a>
+    <a href="..." class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
    </div>
-    <div class="row">
-    <div class="col-sm-10 col-md-6 col-lg-12">
-      <div class="card mb-3">
-        <div class="card-body">
-    <h5 class="card-title">React Todo Application</h5>
-    <p class="card-text">.....</p>
-    <a href="Todo\index.html" class="btn btn-primary">Go watch</a>
-        </div>
-      </div>
-    </div>
-   </div>
+  
 
 </body>
 <body>
