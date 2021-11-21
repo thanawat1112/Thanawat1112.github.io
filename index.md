@@ -5,7 +5,7 @@
   <div class="container"><br />
     <h2>935 304 Web Application</h2>
     <body>
-    <font color="#33FF66">  935304  Web Application </h2></font>
+    <font color="#33FF66">  935304  Web Application </font></h2>
     <body>
     <p>This is Web Application course</p><br />
     <body>
