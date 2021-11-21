@@ -4,7 +4,10 @@
   <link rel="stylesheet" href="styles.css">
   <div class="container"><br />
     <h2>935 304 Web Application</h2>
+    <body>
+    <font color="#ooooFF"> green </font>
     <p>This is Web Application course</p><br />
+    <font color="#ooooFF"> green </font>
   </div>
 </head>
 
