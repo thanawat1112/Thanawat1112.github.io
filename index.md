@@ -22,6 +22,7 @@
 <img src="image\C.jpg" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">About me page</h5>
+    <p class="card-text">Profile</p>
     <a href="aboutme.html" class="btn btn-primary">Go watch</a>
         </div>
       </div>
