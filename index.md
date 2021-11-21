@@ -53,7 +53,6 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">TODO application on JS with DOM</h5>
     <p class="card-text">.....</p>
@@ -65,7 +64,6 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">React Shopping Cart</h5>
     <p class="card-text">.....</p>
@@ -74,6 +72,28 @@
       </div>
     </div>
   </div>
+  <div class="row">
+    <div class="col-sm-10 col-md-6 col-lg-12">
+      <div class="card mb-3">
+        <div class="card-body">
+    <h5 class="card-title">Node Js API</h5>
+    <p class="card-text">.....</p>
+    <a href="Todo\index.html" class="btn btn-primary">Go watch</a>
+        </div>
+      </div>
+    </div>
+   </div>
+    <div class="row">
+    <div class="col-sm-10 col-md-6 col-lg-12">
+      <div class="card mb-3">
+        <div class="card-body">
+    <h5 class="card-title">React and Node API</h5>
+    <p class="card-text">.....</p>
+    <a href="Todo\index.html" class="btn btn-primary">Go watch</a>
+        </div>
+      </div>
+    </div>
+   </div>
 
 </body>
 <body>
