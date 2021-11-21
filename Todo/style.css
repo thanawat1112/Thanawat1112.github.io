@@ -6,8 +6,8 @@
   font-family: 'Poppins', sans-serif;
 }
 ::selection{
-  color: rgb(255, 255, 255);
-  background: rgb(232, 203, 73);
+  color: rgb(15, 0, 155);
+  background: rgb(0, 217, 255);
 }
 body{
   width: 100%;
@@ -15,10 +15,10 @@ body{
   overflow: hidden; 
   padding: 10px;
   background-image:url('https://wallpaperbat.com/img/184361-4k-anime-wallpaper-top-free-4k-anime-background.jpg');
-  
+
 }
 .wrapper{
-  background: #fff;
+  background: rgb(132, 255, 183);
   max-width: 600px;
   width: 100%;
   margin: 180px auto;
@@ -57,7 +57,7 @@ body{
   margin-left: 5px;
   font-size: 21px;
   outline: none;
-  background: #e88349;
+  background: #0e32ff;
   cursor: pointer;
   border-radius: 3px;
   opacity: 0.6;
