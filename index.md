@@ -56,7 +56,7 @@
       <div class="card mb-3">
         <div class="card-body">
     <h5 class="card-title">TODO application on JS with DOM</h5>
-    <p class="card-text">.....</p>
+    <p class="card-text"></p>
     <a href="Todo\index.html" class="btn btn-primary">Go watch</a>
         </div>
       </div>
@@ -67,7 +67,7 @@
       <div class="card mb-3">
         <div class="card-body">
     <h5 class="card-title">React Shopping Cart</h5>
-    <p class="card-text">.....</p>
+    <p class="card-text"></p>
     <a href="https://github.com/thanawat1112/small-shoping-cart" class="btn btn-primary">Go watch</a>
         </div>
       </div>
@@ -78,7 +78,7 @@
       <div class="card mb-3">
         <div class="card-body">
     <h5 class="card-title">Node Js API</h5>
-    <p class="card-text">.....</p>
+    <p class="card-text"></p>
     <a href="https://github.com/thanawat1112/NodeJS-CRUD-api-main" class="btn btn-primary">Go watch</a>
         </div>
       </div>
@@ -89,7 +89,7 @@
       <div class="card mb-3">
         <div class="card-body">
     <h5 class="card-title">React Todo Application</h5>
-    <p class="card-text">.....</p>
+    <p class="card-text"></p>
     <a href="https://github.com/thanawat1112/Thanawat1112.github.io/tree/main/React/react-training-master" class="btn btn-primary">Go watch</a>
         </div>
       </div>
@@ -100,7 +100,7 @@
       <div class="card mb-3">
         <div class="card-body">
     <h5 class="card-title">React and Node API</h5>
-    <p class="card-text">.....</p>
+    <p class="card-text"></p>
     <a href="..." class="btn btn-primary">Go watch</a>
         </div>
       </div>
