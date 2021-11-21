@@ -33,7 +33,7 @@
       <div class="card mb-3">
   <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-    <h5 class="card-title">Bootstrap</h5>
+    <h5 class="card-title">Model 3D</h5>
     <p class="card-text">.....</p>
     <a href="M1\index.html" class="btn btn-primary">Go watch</a>
         </div>
