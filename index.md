@@ -31,7 +31,7 @@
   <div class="row">
     <div class="col-sm-10 col-md-6 col-lg-12">
       <div class="card mb-3">
-  <img src="Picture\DSCF3370.jpg" class="card-img-top" alt="...">
+  <img src="image\M1A2_Abrams.jpg" class="card-img-top" alt="...">
         <div class="card-body">
     <h5 class="card-title">Model 3D</h5>
     <p class="card-text">.....</p>
