@@ -76,6 +76,6 @@
 <body>
     <font color="#33FF66"> Published with  </font>
     <body>
-    <font color="#33FF66"> https://pages.github.com </font>
+    <a href="https://pages.github.com">GitHub Pages</a>
  </body>
 
