@@ -23,6 +23,15 @@
         <div class="card-body">
     <h5 class="card-title">About me page</h5>
     <p class="card-text">Profile</p>
+    <p class="card-text">Manufacturer:  General Dynamics Land Systems</p>
+    <p class="card-text">Service:  US Army, USMC</p>
+    <p class="card-text">Engine:   1500 HP Gas Turbine Engine</p>
+    <p class="card-text">Armament:   120mm XM256 Smooth Bore Cannon; 7.62 M240 coaxial Machine gun; .50 cal M2 Machine gun</p>
+    <p class="card-text">Maximum Speed:   42 mph</p>
+    <p class="card-text">Range:   265 mi </p>
+    <p class="card-text">Crew:   4 </p>
+
+
     <a href="aboutme.html" class="btn btn-primary">Go watch</a>
         </div>
       </div>
