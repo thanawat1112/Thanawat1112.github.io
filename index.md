@@ -54,7 +54,7 @@
         <div class="card-body">
     <h5 class="card-title">TODO application on JS with DOM</h5>
     <p class="card-text">.....</p>
-    <a href="#" class="btn btn-primary">Go watch</a>
+    <a href="Todo\index.html" class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
