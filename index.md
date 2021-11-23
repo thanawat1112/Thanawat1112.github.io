@@ -101,7 +101,7 @@
         <div class="card-body">
     <h5 class="card-title">React and Node API</h5>
     <p class="card-text"></p>
-    <a href="..." class="btn btn-primary">Go watch</a>
+    <a href="https://github.com/thanawat1112/FinalProject" class="btn btn-primary">Go watch</a>
         </div>
       </div>
     </div>
